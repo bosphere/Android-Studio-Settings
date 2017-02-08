@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
+  </component>
+</application>
