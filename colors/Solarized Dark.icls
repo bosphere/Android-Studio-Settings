@@ -1301,6 +1301,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" value="2b36" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -2061,6 +2062,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="OC.CONDITIONALLY_NOT_COMPILED">
+      <value>
+        <option name="FOREGROUND" value="789162" />
+      </value>
+    </option>
     <option name="OC.CPP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -2094,6 +2100,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="22865d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="OC.NUMBER">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -2123,6 +2135,11 @@
     <option name="OC.STRUCT_FIELD">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="7262c4" />
       </value>
     </option>
     <option name="OC_FORMAT_TOKEN">
