@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Volumes/Data/Users/bo/workspace/android/garena/gas2/app/src/main/java/com/garena/gxx/game/live/gift/ChooseGiftView.java'" />
     <option name="defaultScopeName" value="File '/Volumes/Data/Users/bo/workspace/android/garena/gas2/app/src/main/java/com/garena/gxx/game/live/gift/ChooseGiftView.java'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Volumes/Data/Users/bo/workspace/android/garena/gas2/app/src/main/java/com/garena/gxx/game/live/gift/ChooseGiftView.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
