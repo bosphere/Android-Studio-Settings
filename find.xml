@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/Data/Users/bo/workspace/android/garena/gas2/app/src/main/java/com/garena/gxx/game/live/gift/ChooseGiftView.java'" />
-    <option name="defaultScopeName" value="File '/Volumes/Data/Users/bo/workspace/android/garena/gas2/app/src/main/java/com/garena/gxx/game/live/gift/ChooseGiftView.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/Data/Users/bo/workspace/android/garena/gas2/app/src/main/java/com/garena/gxx/game/live/gift/ChooseGiftView.java'" />
+    <option name="customScope" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
+    <option name="defaultScopeName" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
