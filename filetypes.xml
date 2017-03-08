@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
