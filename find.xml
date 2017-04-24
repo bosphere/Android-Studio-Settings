@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,9 +16,9 @@
       <mask>*.mxml</mask>
       <mask>*.cpp</mask>
       <mask>*.h</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
