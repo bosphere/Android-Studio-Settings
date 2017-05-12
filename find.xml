@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
-    <option name="defaultScopeName" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
+    <option name="customScope" value="Project 'gas2'" />
+    <option name="defaultScopeName" value="Project 'gas2'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/src/main/java/com/garena/gxx/database/schema/ClanSession.java - [database]'" />
+    <option name="SEARCH_SCOPE" value="Project 'gas2'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
