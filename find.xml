@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'gas2'" />
     <option name="defaultScopeName" value="Project 'gas2'" />
+    <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'gas2'" />
     <recentFileMasks>
       <mask>*.properties</mask>
