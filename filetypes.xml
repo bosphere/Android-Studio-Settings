@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
