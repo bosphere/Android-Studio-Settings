@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,9 +18,11 @@
       <mask>*.mxml</mask>
       <mask>*.cpp</mask>
       <mask>*.h</mask>
-      <mask>*.gradle</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
