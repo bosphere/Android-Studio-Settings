@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,10 +17,11 @@
       <mask>*.cpp</mask>
       <mask>*.h</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
