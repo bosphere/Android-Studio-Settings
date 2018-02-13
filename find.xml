@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Fotoo2'" />
-    <option name="defaultScopeName" value="Project 'Fotoo2'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Fotoo2'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
