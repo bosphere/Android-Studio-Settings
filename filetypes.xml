@@ -4,6 +4,7 @@
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="ld" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
