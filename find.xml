@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../message/src/main/java/com/garena/ruma/message/chat/item/EventViewHolder.java [message]'" />
-    <option name="defaultScopeName" value="File '.../message/src/main/java/com/garena/ruma/message/chat/item/EventViewHolder.java [message]'" />
-    <option name="SEARCH_SCOPE" value="File '.../message/src/main/java/com/garena/ruma/message/chat/item/EventViewHolder.java [message]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
