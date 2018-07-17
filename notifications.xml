@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Emulator" displayType="NONE" />
+    <notification groupId="Framework Detection" displayType="NONE" />
   </component>
 </application>
