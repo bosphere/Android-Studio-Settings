@@ -8,6 +8,7 @@
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="recipients" type="PLAIN_TEXT" />
+      <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
     </extensionMap>
