@@ -5,27 +5,14 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.cpp</mask>
-      <mask>*.h</mask>
-      <mask>*.java</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradle</mask>
-      <mask>*.x</mask>
-      <mask>*.l</mask>
-      <mask>*l</mask>
-      <mask>*.kt</mask>
-      <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
