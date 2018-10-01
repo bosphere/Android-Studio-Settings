@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
+      <mapping pattern="85" type="Native" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="ld" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="recipients" type="PLAIN_TEXT" />
-      <mapping ext="flat" type="PLAIN_TEXT" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="flat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
