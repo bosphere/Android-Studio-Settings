@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="userId" value="5e72440a:16af4c24e5e:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
