@@ -3,7 +3,7 @@
     <property name="created">2019-08-28T11:12:13</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2020-02-15T22:34:41</property>
+    <property name="modified">2020-02-27T22:46:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -16,6 +16,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="859900" />
     <option name="FILESTATUS_MERGED" value="6c71c4" />
     <option name="FILESTATUS_MODIFIED" value="2aa198" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
